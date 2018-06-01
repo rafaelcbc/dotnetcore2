@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ProdutosWebAPI\ProdutosWebAPI\bin\Debug\netcoreapp2.0\ProdutosWebAPI.deps.json
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ProdutosWebAPI\ProdutosWebAPI\bin\Debug\netcoreapp2.0\ProdutosWebAPI.runtimeconfig.json
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ProdutosWebAPI\ProdutosWebAPI\bin\Debug\netcoreapp2.0\ProdutosWebAPI.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ProdutosWebAPI\ProdutosWebAPI\bin\Debug\netcoreapp2.0\ProdutosWebAPI.dll
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ProdutosWebAPI\ProdutosWebAPI\bin\Debug\netcoreapp2.0\ProdutosWebAPI.pdb
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\netcoreapp2.0\ProdutosWebAPI.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\netcoreapp2.0\ProdutosWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\netcoreapp2.0\ProdutosWebAPI.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\netcoreapp2.0\ProdutosWebAPI.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\netcoreapp2.0\ProdutosWebAPI.dll
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\netcoreapp2.0\ProdutosWebAPI.pdb
