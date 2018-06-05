@@ -1,0 +1,22 @@
+C:\_aspncore2\ContatosWebAPI\ContatosWebAPI\bin\Debug\netcoreapp2.0\ContatosWebAPI.deps.json
+C:\_aspncore2\ContatosWebAPI\ContatosWebAPI\bin\Debug\netcoreapp2.0\ContatosWebAPI.runtimeconfig.json
+C:\_aspncore2\ContatosWebAPI\ContatosWebAPI\bin\Debug\netcoreapp2.0\ContatosWebAPI.runtimeconfig.dev.json
+C:\_aspncore2\ContatosWebAPI\ContatosWebAPI\bin\Debug\netcoreapp2.0\ContatosWebAPI.dll
+C:\_aspncore2\ContatosWebAPI\ContatosWebAPI\obj\Debug\netcoreapp2.0\ContatosWebAPI.csprojResolveAssemblyReference.cache
+C:\_aspncore2\ContatosWebAPI\ContatosWebAPI\obj\Debug\netcoreapp2.0\ContatosWebAPI.csproj.CoreCompileInputs.cache
+C:\_aspncore2\ContatosWebAPI\ContatosWebAPI\obj\Debug\netcoreapp2.0\ContatosWebAPI.AssemblyInfoInputs.cache
+C:\_aspncore2\ContatosWebAPI\ContatosWebAPI\obj\Debug\netcoreapp2.0\ContatosWebAPI.AssemblyInfo.cs
+C:\_aspncore2\ContatosWebAPI\ContatosWebAPI\bin\Debug\netcoreapp2.0\ContatosWebAPI.pdb
+C:\_aspncore2\ContatosWebAPI\ContatosWebAPI\obj\Debug\netcoreapp2.0\ContatosWebAPI.dll
+C:\_aspncore2\ContatosWebAPI\ContatosWebAPI\obj\Debug\netcoreapp2.0\ContatosWebAPI.pdb
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ContatosWebAPI\ContatosWebAPI\bin\Debug\netcoreapp2.0\ContatosWebAPI.deps.json
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ContatosWebAPI\ContatosWebAPI\bin\Debug\netcoreapp2.0\ContatosWebAPI.runtimeconfig.json
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ContatosWebAPI\ContatosWebAPI\bin\Debug\netcoreapp2.0\ContatosWebAPI.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ContatosWebAPI\ContatosWebAPI\bin\Debug\netcoreapp2.0\ContatosWebAPI.dll
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ContatosWebAPI\ContatosWebAPI\bin\Debug\netcoreapp2.0\ContatosWebAPI.pdb
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ContatosWebAPI\ContatosWebAPI\obj\Debug\netcoreapp2.0\ContatosWebAPI.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ContatosWebAPI\ContatosWebAPI\obj\Debug\netcoreapp2.0\ContatosWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ContatosWebAPI\ContatosWebAPI\obj\Debug\netcoreapp2.0\ContatosWebAPI.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ContatosWebAPI\ContatosWebAPI\obj\Debug\netcoreapp2.0\ContatosWebAPI.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ContatosWebAPI\ContatosWebAPI\obj\Debug\netcoreapp2.0\ContatosWebAPI.dll
+C:\Users\Rafael\Desktop\Projetos Locais\5_WebAPI\ContatosWebAPI\ContatosWebAPI\obj\Debug\netcoreapp2.0\ContatosWebAPI.pdb
