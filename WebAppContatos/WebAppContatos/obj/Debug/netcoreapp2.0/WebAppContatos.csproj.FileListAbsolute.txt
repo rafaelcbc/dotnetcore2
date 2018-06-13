@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\Projetos Locais\WebCore\WebAppContatos\WebAppContatos\bin\Debug\netcoreapp2.0\WebAppContatos.deps.json
+C:\Users\Rafael\Desktop\Projetos Locais\WebCore\WebAppContatos\WebAppContatos\bin\Debug\netcoreapp2.0\WebAppContatos.runtimeconfig.json
+C:\Users\Rafael\Desktop\Projetos Locais\WebCore\WebAppContatos\WebAppContatos\bin\Debug\netcoreapp2.0\WebAppContatos.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Projetos Locais\WebCore\WebAppContatos\WebAppContatos\bin\Debug\netcoreapp2.0\WebAppContatos.dll
+C:\Users\Rafael\Desktop\Projetos Locais\WebCore\WebAppContatos\WebAppContatos\bin\Debug\netcoreapp2.0\WebAppContatos.pdb
+C:\Users\Rafael\Desktop\Projetos Locais\WebCore\WebAppContatos\WebAppContatos\obj\Debug\netcoreapp2.0\WebAppContatos.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Projetos Locais\WebCore\WebAppContatos\WebAppContatos\obj\Debug\netcoreapp2.0\WebAppContatos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projetos Locais\WebCore\WebAppContatos\WebAppContatos\obj\Debug\netcoreapp2.0\WebAppContatos.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Projetos Locais\WebCore\WebAppContatos\WebAppContatos\obj\Debug\netcoreapp2.0\WebAppContatos.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Projetos Locais\WebCore\WebAppContatos\WebAppContatos\obj\Debug\netcoreapp2.0\WebAppContatos.dll
+C:\Users\Rafael\Desktop\Projetos Locais\WebCore\WebAppContatos\WebAppContatos\obj\Debug\netcoreapp2.0\WebAppContatos.pdb
